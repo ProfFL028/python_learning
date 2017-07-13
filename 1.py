@@ -12,3 +12,4 @@ soup
 
 soup.find('tr')
 soup.find_all('tr')
+
